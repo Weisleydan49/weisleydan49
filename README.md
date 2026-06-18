@@ -2,7 +2,7 @@
 
 Full-stack mobile developer based in Nairobi, Kenya. I build cross-platform apps end to end: Flutter on the front, Python or Node on the back, Postgres underneath.
 
-- 🔭 Currently working on **[your main app here]**
+- 🔭 Currently working on **[YelenImport]**
 - 🌱 Sharpening **[e.g. clean architecture in Flutter, REST API design, CI/CD]**
 - 💼 Open to **full-stack mobile roles and freelance app builds**
 - 📫 Reach me at **weisleyalmond@outlook.com**
@@ -50,13 +50,13 @@ Full-stack mobile developer based in Nairobi, Kenya. I build cross-platform apps
 
 ### 🚌 SAFARI-SALAMA
 A matatu route optimization and safety system for Nairobi commuters. Maps routes and surfaces safety data so riders can choose better trips.
-**Stack:** Python backend · [add mobile or web front end] · [add database]
+**Stack:** Python backend · [flutter front end] · [postgresql database]
 🔗 [View repo](https://github.com/Weisleydan49/SAFARI-SALAMA)
 
-### 📱 [Your strongest Flutter app]
-A cross-platform mobile app with a [Python/Node] API behind it. [One sentence on what it does and who uses it.]
+### 📱 [SignalGrid]
+A cross-platform mobile app with a [Python/Node] API behind it. [An autonomous community incident reporting.]
 **Stack:** Flutter · Dart · [API + database]
-🔗 [View repo](#)
+🔗 [View repo](https://github.com/weisleydan49/SignalGrid)
 
 ### 🧠 Project Castro
 A behavioural-science web project built with Castro, turning research ideas into a working interface.
