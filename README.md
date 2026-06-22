@@ -3,7 +3,7 @@
 
 <!-- Animated typing headline -->
 <p align="center">
-  <a href="https://github.com/weisleydan49">
+  <a href="https://github.com/almondweisley">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=02569B&center=true&vCenter=true&width=600&lines=Full-Stack+Mobile+Developer;Flutter+%2B+Dart+on+the+front;Python+%26+Node+on+the+back;Cross-platform+apps%2C+end+to+end" alt="Typing SVG" />
   </a>
 </p>
@@ -63,39 +63,39 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 ### 🚌 SAFARI-SALAMA
 A matatu route optimization and safety system for commuters. Maps routes and surfaces safety data so riders can choose better trips.
 **Stack:** Python backend · flutter front end · postgresql database
-🔗 [View repo](https://github.com/Weisleydan49/SAFARI-SALAMA)
+🔗 [View repo](https://github.com/almondweisley/SAFARI-SALAMA)
 
 ### 📱 SignalGrid
 A cross-platform mobile app with a Node API behind it. An autonomous community incident reporting.
 **Stack:** Flutter · Dart · node.js + MongoDB
-🔗 [View repo](https://github.com/weisleydan49/SignalGrid)
+🔗 [View repo](https://github.com/almondweisley/SignalGrid)
 
 ### 🧠 Project Castro
 A behavioural-science web project built with Castro, turning research ideas into a working interface.
 **Stack:** HTML · CSS
-🔗 [View repo](https://github.com/Weisleydan49/Project_Castro)
+🔗 [View repo](https://github.com/almondweisley/Project_Castro)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weisleydan49&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=weisleydan49&theme=tokyonight&hide_border=false" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=almondweisley&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=almondweisley&theme=tokyonight&hide_border=false" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weisleydan49&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almondweisley&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
 </p>
 
 <!-- Live contribution activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weisleydan49&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almondweisley&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
 <!-- Profile view counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=weisleydan49&style=for-the-badge&color=02569B&label=Profile+Views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=almondweisley&style=for-the-badge&color=02569B&label=Profile+Views" alt="profile views" />
 </p>
 
 <!-- Waving footer banner -->
