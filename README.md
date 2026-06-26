@@ -1,5 +1,5 @@
 <!-- Waving header banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Weisley%20Dan%20Ouma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Mobile%20Developer&descSize=18&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Weisley%20Dan%20Ouma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Mobile%20Developer&descSize=18&descAlignY=62)
 
 <!-- Animated typing headline -->
 <p align="center">
@@ -15,7 +15,7 @@
 I build cross-platform apps end to end. Flutter and Dart on the front, Python or Node on the back, Postgres underneath.
 
 - 🔭 Currently working on **YelenImport**
-- 🌱 Sharpening **FastAPI, SqlAlchemy**
+- 🌱 Sharpening **FastAPI, SQLAlchemy**
 - 💼 Open to **full-stack mobile roles and freelance app builds**
 - 📫 Reach me at **weisleyalmond@outlook.com**
 
@@ -25,7 +25,7 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/weisley-dan)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/solutionsalmond)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:weisleyalmond@outlook.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:weisleyalmond@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__._a.l)
 
 ---
@@ -62,12 +62,12 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 
 ### 🚌 SAFARI-SALAMA
 A matatu route optimization and safety system for commuters. Maps routes and surfaces safety data so riders can choose better trips.
-**Stack:** Python backend · flutter front end · postgresql database
+**Stack:** Python backend · Flutter frontend · PostgreSQL database
 🔗 [View repo](https://github.com/almondweisley/SAFARI-SALAMA)
 
 ### 📱 SignalGrid
-A cross-platform mobile app with a Node API behind it. An autonomous community incident reporting.
-**Stack:** Flutter · Dart · node.js + MongoDB
+A cross-platform mobile app with a Node API behind it, built for autonomous community incident reporting.
+**Stack:** Flutter · Dart · Node.js + MongoDB
 🔗 [View repo](https://github.com/almondweisley/SignalGrid)
 
 ### 🧠 Project Castro
